@@ -1,5 +1,5 @@
-# Project Structure
-
+# Project: Fresh and rotten fruit classification
+### Project structure
 ```
 project/
 │
